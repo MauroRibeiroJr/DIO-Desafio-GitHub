@@ -1,0 +1,17 @@
+• ELEMENTOS PARA LISTA
+
+<ul>: Representa uma lista em que a ordem dos itens não é importante:
+
+<ul>
+Item 1
+Item 2
+
+<ol>: Ordem dos itens é importante, portanto são representados com números, letras ou algarismos romanos.
+
+<ol>
+1. Item 1
+2. Item 2
+
+<li>: Representa o ítem de uma lista.
+
+

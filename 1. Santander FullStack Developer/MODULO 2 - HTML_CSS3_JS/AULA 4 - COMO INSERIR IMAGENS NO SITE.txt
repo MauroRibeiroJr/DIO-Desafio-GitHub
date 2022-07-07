@@ -1,0 +1,13 @@
+• ELEMENTO PARA USO DE IMAGENS
+
+<img>
+
+O Elemento IMG possui apenas dois atributos SRC e ALT.
+
+SRC:
+    <img src="img/avatar.img">
+ -- O SRC é obrigatório e guarda o caminho da imagem, dentro do proprio site ou de outor lugar.
+
+ALT:
+    <img alt="foto de Mauro Ribeiro">
+ -- Não é obrigatório, mas recomendado, pois melhora acessibilidade e mostra a descrição da foto quando ela não é carregada e leitores de tela usam essa descrição para mostrar para o usuário o que ela significa.
