@@ -1,0 +1,101 @@
+TIPOLOGIA E VARIÁVEIS
+
+• Tipos de Dados
+  - Numéricos
+    - Inteiros: 0,1,5,50,60,800,...
+                -58,-50,-49,32,-10,-5
+    - Reais: 5.95,9.54,-8.8,-0.555...
+                -58,-50,-49,32,-10,-5
+  - Caracteres
+    - Tudo aquilo que não é representado por número (Ex.: Texto)
+  - Lógicos
+    - Booleano (Verdadeiro (1) e Falso (0))
+  Obs.: No portugês estruturado seria:
+    - Verdadeiro = .V ou .S
+    - Falso = .F ou .N
+
+• O que é uma variável:
+  Ex.: Nome_Usuário, Telefone, Email.
+
+----------------------------------------
+
+INSTRUÇÕES PRIMITIVAS
+
+• Definição: Linguagem de palavra-chave (vocabulário) de uma determinada linguagem de programação que tem por finalidade comandar um computador que irá tratar os dados.
+
+----------------------------------------
+
+ESTRUTURAS CONDICIONAIS E OPERADORES
+
+• Tipos de estruturas condicionais
+  - Simples
+  - Composta
+  - Encadeada
+
+• Operadores Relacionais
+  (=) Igual a
+  (>) Maior que
+  (<) Menor que
+  (<>) Diferente de
+  (>=) Maior ou igual a
+  (<=) Menor ou igual a
+
+• Operadores Logicos
+  - Utilizado quando necessário validar uma resposta simplificada, como V/F.
+    - AND - Oeprador Lógico de Interseção.
+    - OR - Operador Lógico de  União
+    - NOT - Operador Lógico de Negação.
+
+----------------------------------------
+
+ESTRUTURA DE REPETIÇÃO
+
+• Vantagens:
+  - Redução de linhas
+  - Compreensão Facilitada
+  - Redução de erro
+
+• TIPOS DE ESTRUTURA DE REPETIÇÃO
+  - Enquanto
+    - Teste Logico: Ocorre no Início
+    - Nº de Repetições: Indefinidas
+
+  - Repita
+    - Teste  Lógico: Ocorre no final
+    - Nº de Repetições: Indefinidas
+
+  - PARA..DE..ATÉ
+    - Teste Lógico: Inicio
+    - Nº de Repetições: Definido
+----------------------------------------
+
+VETORES E MATRIZES
+
+• VETOR: Um vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado.
+
+• MATRIZ: É uma tabela organizada em linhas e colunas no formato M x N, onde M representa o número de linhas e N o número de colunas.
+
+----------------------------------------
+
+O QUE SÃO FUNÇÕES
+ - Também conhecidas como Função, Bloco, Subprograma, Subalgoritmo, Sub-rotina, Método.
+
+ - Definição Formal: As funções, ou sub-rotinas são blocos de instruções (código) que realizam tarefas específicas e são identificados por nomes e parâmetros, ou seja, assinatura.
+ 
+
+ - Beneficios do uso de função: 
+   - Modularização do programa;
+   - Código mais claro e conciso;
+   - Reutilização de instruções.
+
+----------------------------------------
+
+INSTRUÇÕES DE ENTRADA/SAÍDA
+ - Instrução de Entrada: Consiste na inserção e recebimento de dados do mundo real, por meio de ação de alguma interface, seja teclado, mouse, arquivos e etc.
+
+ - Instrução de Saída: Consiste na impresão dos dados do mundo abstrato, digitalpor meio de ação de alguma interface. Os formatos podem variar desde simnples arquivos binários até complexas querys de banco de dados.
+ 
+ • Tipos de Saida: 
+   - Saída Programada.
+     - Condicional (Aguarda o dispositivo) ou Incondicional.
+   - Saída por Interrupção.

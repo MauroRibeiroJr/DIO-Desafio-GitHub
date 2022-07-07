@@ -1,0 +1,19 @@
+INTRODUÇÃO A LOGICA DE PROGRAMAÇÃO
+
+TECNICAS DE LÓGICA DE PROGRAMAÇÃO
+• Tecnica Linear (Modelo Tradicional)
+  - Não tem vinculo
+    - Estrutura hierárquica
+    - Programação de computadores
+  - Execução sequenciada
+    - Ordenação de elementos por uma única propriedade.
+  - Recursos limitados
+
+• Tecnica Estruturada
+  - Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato).
+
+• Tecnica Modular
+  - Controlada por um conjunto de regras.
+
+Ex.: Dados de Entrada -> Processo de Transformação -> Dados de Saída
+

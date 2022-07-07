@@ -1,0 +1,81 @@
+LINGUAGENS DE PROGRAMAÇÃO
+
+• Introdução da Linguagem de Programação
+
+• PROBLEMAS COMPUTACIONAIS
+  - São facilmente resolvíveis em ambiente computacional.
+   - Problemas de decisao
+   - Problemas de Busca
+   - Problemas de otimização.
+
+----------------------------------------
+
+• CARECTERISTICAS DE UM PROGRAMA
+
+- DIRETRIZES
+  - Legibilidade
+  - Redigibilidade
+  - Confiabilidade
+  - Custo
+
+- LEGIBILIDADE:
+  - Facilidade de Leitura
+  - Compreensão
+  - Ortogonalidade
+  - Definição adequada das estruturas
+
+- REDIGIBILIDADE
+  - Pode conflitar com a legibilidade
+  - Ortogonalidade
+  - Simplicidade da escrita
+  - Suporte à abstração
+  - Reuso do código
+  - Expressividade
+
+- CONFIABILIDADE
+  - Verificação de tipos
+  - Trata exceções
+  - Uso de ponteiros
+  - Conpatibilidade entre compiladores
+
+- CUSTO
+  - Treinamento
+  - Codificação
+  - Compilação
+  - Execução
+  - Infra-Estrutura
+
+---------------------------------------
+
+• ANÁLISE DE CÓDIGO
+  - Analise Léxica
+    - Particionar, Classificar, Eliminar
+
+  - Análise Sintaxe
+    - Componente do sistema linguistico que interligam os constituintes da sentença, atribuindo-lhe uma estrutura.
+  - Análise Semantica
+    - É o estudo do significado. Incide sobre a relação entre significantes, como: palavras, frases, sinais e simbolos (lógica do programa).
+
+---------------------------------------
+
+• PARADIGMAS DA PROGRAMAÇÃO
+  - Forma de resolução d eproblemas com diretrizes e limitações especificas de cada paradigma utilizando linguagem de programação.
+
+  - CLASSIFICAÇÃO
+    - Orientação a objeto
+    - Procedural (Sequencia)
+    - Funcional (Funções)
+    - Estruturado (Estrutura de Blocos Alinhados)
+    - Computação distribuida (Funções executadas de forma independente)
+    - Lógico.
+
+- PARADIGMA ESTRUTURADO (Linguagem C)
+ - Enfase em sequência.
+  - Sequência
+  - Decisao (Teste Lógico)
+  - Iteração (Função, Laços e Condições)
+ - Utilizado em problemas simples e diretas e aprender programação.
+
+- ORIENTAÇÃO A OBJETO
+ - Paradigma de programação baseado na utilização de objeto e suas interações.
+   -   
