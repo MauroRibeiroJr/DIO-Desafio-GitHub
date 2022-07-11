@@ -1,0 +1,11 @@
+DIMENSÃO E ALINHAMENTO
+
+• Width: Ajustar largura
+• Height: Ajustar altura
+
+• Max-Width: largura maxima que o elemento pode ter
+• Max-Height: alura maxima que o elemento pode ter
+
+• Margin: Inserir espaçamento entre elementos e serve para alinhar algum elemento automaticamente.
+
+• Text align: Serve para alinhar texto, utilizando left, right, center ou justificar o texto com valor justify text.

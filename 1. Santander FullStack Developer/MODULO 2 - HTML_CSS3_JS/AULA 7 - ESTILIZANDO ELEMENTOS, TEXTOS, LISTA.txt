@@ -1,0 +1,97 @@
+ESTILIZANDO TEXTOS
+
+• font-family
+  - Este componente altera a fonte do texto da classe desejada.
+  - Ex. 1: #title {
+           font-family: Verdana;
+         }
+
+  - Ex. 2: .post_title{
+           font-family: Verdana, Arial;
+         }
+(Obs.: Neste ex a segunda fonte é uma segunda opção, caso a primeira fonte  não carregue.
+-----------------------------------------------------
+• font-size
+  - Este componente altera o tamanho do texto da classe desejada.
+  - Ex.: #title {
+           font-size: 30px;
+         }
+-----------------------------------------------------
+• font-style
+  - Este componente altera a aparência do texto.
+  - Ex.: .subtitle{
+           font-style: italic;
+         }
+-----------------------------------------------------
+• font-weight
+  - Este elemento altera o peso do texto, mais usado quando existem diversos pesos nas fontes.
+  - Ex.: .subtitle{
+           font-weight: bold;
+         }
+Obs.: No exemplo acima a opção "bold" deixa o texto em negrito.
+-----------------------------------------------------
+• text-transform
+  - Este elemento altera o texto entre maiusculo e minusculo.
+    - uppercase: coloca todo o texto em caixa alta
+    - lowercase: coloca todo o texto em caixa baixa
+    - capitalize: coloca todas as primeiras letras de cada palavra em maiusculo.
+
+ - Ex.: #Title{
+           font-transform: uppercase;
+         }
+ - Ex.: .subtitle{
+           font-transform: lowercase;
+         }
+ - Ex.: .post_title{
+           font-transform: capitalize
+         }
+-----------------------------------------------------
+• text-decoration
+  - Elemento usado para dar destaque ao texto, inclui linhas.
+  - underline: insere uma linha abaixo da palavra
+  - overline: insere uma linha acima da palavra
+  - line-through: insere uma linha no meio da palavra (cortando).
+
+ - Ex.: #Title{
+           font-decoration: underline;
+         }
+ - Ex.: .subtitle{
+           font-decoration: overline;
+         }
+ - Ex.: .post_title{
+           font-decoration: line-through;
+         }
+-----------------------------------------------------
+
+>> ESTILIZANDO LISTAS <<
+
+• list_style-type
+  - Elemento usado para alterar o marcador da lista, existem varias opções para listas ordenadas e não ordenadas.
+
+Ex.: 
+- Lista não ordenada, altera o marcador para quadrado.
+     ul {
+         list-style-type: square;
+        }
+
+- Lista ordenada, altera o marcador para um algorismo romano maiusculo.
+     ol {
+         list-style-type: upper-roman;
+        }
+
+- Lista não ordenada, altera o marcador para um simbolo.
+     ul {
+         list-style-type: "\1F44D";
+        }
+- Lista ordenada, altera o marcador para imagem desejada.
+     ol {
+         list-style-image: url("image.png");
+        }
+
+
+
+
+
+
+
+

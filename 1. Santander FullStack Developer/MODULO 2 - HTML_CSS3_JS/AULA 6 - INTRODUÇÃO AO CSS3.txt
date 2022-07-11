@@ -1,0 +1,27 @@
+1. O QUE SÃO SELETORES
+2. CONCEITOS BASICOS
+3. PRINCIPAIS SELETORES
+
+1. São elementos HTML (Ex.: a, p, h1, h3)
+
+ID E CLASSE NO CSS3
+
+ID: É precedido por um hash (#) e pode ser usado apenas uma vez na pagina e é adicionado ao HTML como ID
+    Ex.: #header {
+		padding: 15px;
+	 }
+
+CLASSE: É precedido por um ponto (.) e é add ao HTML como CLASS
+    Ex.: .header {
+		padding: 15px;
+	  }	     
+
+---------------------------------------------------
+
+BOX MODEL é o nome dado a cada elemento HTML de um site. É constituido por:
+
+- Margem: Espaçamento entre elementos
+- Bordas: Circundam o padding e conteudo, pode ser alterado largura e cor.
+- Padding: Espaçamento entre a borda e o conteudo.
+- Conteudo: É o que o bloco representa, texto, imagem ou video.
+
